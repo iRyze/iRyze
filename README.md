@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://files.catbox.moe/0wl0eb.png" width="70%" alt="Rama de sakura" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Zen+Kurenaido&size=34&duration=3800&pause=900&color=FF8FC9&center=true&vCenter=true&random=false&width=780&lines=こんにちは！はじめまして;Hola!+Soy+Camila+%2F+Cami;19歳・日本で暮らしています;Dev+%26+Server+Developer+です" />
 </p>
 
@@ -8,11 +12,11 @@
   <img src="https://img.shields.io/badge/🇯🇵-Japón-FFB6C1?style=for-the-badge" alt="País" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://files.catbox.moe/xyckdv.png" width="55%" alt="Sakura" />
+  <img src="https://files.catbox.moe/6s7u17.webp" width="30%" alt="Pétalos cayendo" />
 </p>
+
+<br>
 
 <!-- 私について -->
 <h2 align="center"><font color="#FF8FC9">私について · sobre mí</font></h2>
@@ -116,10 +120,14 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/xyckdv.png" width="55%" alt="Sakura" />
+  <img src="https://files.catbox.moe/tlxhbz.png" width="22%" alt="Pétalos" />
 </p>
 
 <p align="center">
   <font color="#FF8FC9">🌸 ありがとうございました 🌸</font><br>
   <sub>gracias por visitar</sub>
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/0wl0eb.png" width="70%" alt="Rama de sakura" />
 </p>
